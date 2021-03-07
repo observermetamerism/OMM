@@ -3,6 +3,7 @@
 "example.m" shows how to compute OMMn, which in introduced by the paper. 
 
 ** Folders
+
 Categorical Observers: allows you to create your own customized categorical observers. 
 
 CMFs: contains 10 categorical observers and those physiological parameters. 
