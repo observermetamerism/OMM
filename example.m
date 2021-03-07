@@ -3,7 +3,7 @@ clear;
 close all;
 
 stdOb = load('CIE1931_Standard_Observer.mat'); % CIE 1931 2-deg standard observer
-indObs = load('./CMFs/Cat_2deg_CMFs_N=100.mat'); % 100 Categorical observers
+indObs = load('./CMFs/CatCMFs_2deg_N=10.mat'); % 10 Categorical observers
 
 % CIE D65 neutral pattern
 neutral = [95.0455927000000;100;108.905775100000] .* 0.5;

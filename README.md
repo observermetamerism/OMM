@@ -2,4 +2,11 @@
 
 "example.m" shows how to compute OMMn, which in introduced by the paper. 
 
+** Folders
+Categorical Observers: allows you to create your own customized categorical observers. 
+
+CMFs: contains 10 categorical observers and those physiological parameters. 
+
+Example Displays: includes the SPDs of the example displays used in the work. 
+
 If you have further questions about the materials, please email Yongmin at yp8103@rit.edu. 
