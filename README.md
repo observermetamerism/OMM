@@ -1,8 +1,11 @@
 # All the materials in this repository aim at helping the readers understand and reproduce the simulation method described in the paper titled "Efficiently Evaluating the Effect of Color Gamut and Spectral Bandwidth on Observer Metamerism in HDR Displays" presented by Yongmin Park & Michael Murdoch. 
 
+<a href="https://zenodo.org/badge/latestdoi/345418497"><img src="https://zenodo.org/badge/345418497.svg" alt="DOI"></a>
+
 "example.m" shows how to compute OMMn, which in introduced by the paper. 
 
 ** Folders
+
 Categorical Observers: allows you to create your own customized categorical observers. 
 
 CMFs: contains 10 categorical observers and those physiological parameters. 
